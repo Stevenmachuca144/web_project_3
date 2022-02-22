@@ -1,0 +1,8 @@
+.lead__rectangle {
+  background: #000000;
+  mix-blend-mode: hue;
+  max-height: 615px;
+  margin-left: 0px;
+  margin-right: 0px;
+  border: solid 1px white;
+}

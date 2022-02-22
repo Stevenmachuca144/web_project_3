@@ -1,0 +1,4 @@
+.photo-grid {
+  display: grid;
+  max-width: 1184px;
+}
