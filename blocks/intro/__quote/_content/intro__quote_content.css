@@ -1,4 +1,4 @@
-.intro__quote-content {
+.intro__quote_content {
   padding: 0;
   margin-top: 0;
   margin-bottom: 10px;
@@ -7,7 +7,7 @@
 }
 
 @media screen and (max-width: 320px) {
-  .intro__quote-content {
+  .intro__quote_content {
       line-height: 30px;
   }
 }
