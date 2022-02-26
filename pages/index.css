@@ -58,5 +58,3 @@
 /* footer */
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__text/footer__text.css);
-
-@import url(../blocks/place/__image/_mod/place__image_mod.css);
