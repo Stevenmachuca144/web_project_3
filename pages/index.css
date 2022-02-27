@@ -38,7 +38,6 @@
 
 /* place */
 @import url(../blocks/place/place.css);
-@import url(../blocks/place/__image/_mod/place__image_mod.css);
 @import url(../blocks/place/__title/place__title.css);
 @import url(../blocks/place/__website/place__website.css);
 @import url(../blocks/place/__website-url-heading/place__website-url-heading.css);
