@@ -42,6 +42,7 @@
 @import url(../blocks/place/__website-url-heading/place__website-url-heading.css);
 @import url(../blocks/place/__website-artist/place__website-artist.css);
 @import url(../blocks/place/__image/place__image.css);
+@import url(../blocks/place/__image/_mod/place__image_mod.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
 @import url(../blocks/place/__paragraphs/place__paragraphs.css);
 
