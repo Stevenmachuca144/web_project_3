@@ -55,5 +55,5 @@
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
 
 /* footer */
-@import url(../blocks/footer/footer.css);
+@import url(../blocks/footer-container/footer-container.css);
 @import url(../blocks/footer/__text/footer__text.css);
