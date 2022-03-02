@@ -4,6 +4,8 @@
 * Figma  
 * Images  
   This Project uses html and css and also media quieres to be able to show you where my online buddys at Practicum live on, you can view the website on desktop, tablet, and mobile.
+
+  https://stevenmachuca144.github.io/web_project_3/index.html
 **Intro**    
   
 This is a project that showcases the hometowns of some of Practicum's employees. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
