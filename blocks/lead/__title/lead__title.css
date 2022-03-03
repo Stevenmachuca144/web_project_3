@@ -17,5 +17,6 @@
   font-size: 40px;
   line-height: 44px;
   width: calc(100% - 16px * 2);
+  margin: 0 auto 0 auto;
   }
 }

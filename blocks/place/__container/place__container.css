@@ -1,5 +1,4 @@
 .place__container {
-
         display: grid;
         column-gap: 40px;
         row-gap: 48px;
@@ -8,13 +7,13 @@
       }
       
       @media screen and (max-width: 768px) {
-        .place {
+        .place__container {
           column-gap: 28px;
         }
       }
       
       @media screen and (max-width: 520px) {
-        .place {
+        .place__container {
           row-gap: 30px;
           grid-template-columns: 1fr;
           grid-template-rows: auto;
