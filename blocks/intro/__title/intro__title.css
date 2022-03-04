@@ -11,3 +11,10 @@
     line-height: 35px;
   }
 }
+
+
+@media screen and (max-width: 935px) {
+  .intro__title {
+    text-align: center;
+  }
+}
